@@ -1,0 +1,6 @@
+Tobacco3482-jpg/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
